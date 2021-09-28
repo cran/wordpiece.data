@@ -1,0 +1,13 @@
+5d0767028a711a994056d88440293dc0 *DESCRIPTION
+0c70c5b1019fd737adc2133c416f8596 *NAMESPACE
+8304ff4de97b4121ae018c8da047b2bf *NEWS.md
+4981cf6f6deffdc4aa4658faa64c73f9 *R/loaders.R
+8a973187be8945e26f175b03f428789e *README.md
+016bf9fc376fa69fef4d052ac6a82711 *inst/rds/wordpiece_cased_28996.rds
+72ab4a41752ba43d32ea2903ee5fc8d1 *inst/rds/wordpiece_uncased_30522.rds
+f838d592c2562596d6eb576f32318dd4 *man/dot-get_path.Rd
+31594f3d1aa95d284bd7ccedbc7bc76e *man/dot-load_inst_rds.Rd
+c5c38b89e921172235670a9256626470 *man/wordpiece_vocab.Rd
+bcb41d882fbe1b854073ba5c87e29d98 *tests/testthat.R
+e2b5226a5e9523debaab7ec4e359f166 *tests/testthat/_snaps/loaders.md
+dd7bca2aa7f4d37dbc3b1df7a94e8417 *tests/testthat/test-loaders.R
