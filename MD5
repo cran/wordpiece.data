@@ -1,10 +1,10 @@
-5d0767028a711a994056d88440293dc0 *DESCRIPTION
+65b31929c991efdca653ce89fcebcfc1 *DESCRIPTION
 0c70c5b1019fd737adc2133c416f8596 *NAMESPACE
-8304ff4de97b4121ae018c8da047b2bf *NEWS.md
+b622909d6fe290b52aa4af2e53b31958 *NEWS.md
 4981cf6f6deffdc4aa4658faa64c73f9 *R/loaders.R
-8a973187be8945e26f175b03f428789e *README.md
-016bf9fc376fa69fef4d052ac6a82711 *inst/rds/wordpiece_cased_28996.rds
-72ab4a41752ba43d32ea2903ee5fc8d1 *inst/rds/wordpiece_uncased_30522.rds
+9017927de422bd723edbcbb1b2f36d51 *README.md
+ff83a210eba9124353e06e3b4898d35f *inst/rds/wordpiece_cased_28996.rds
+ab4e3fe5c9212163369781237033197a *inst/rds/wordpiece_uncased_30522.rds
 f838d592c2562596d6eb576f32318dd4 *man/dot-get_path.Rd
 31594f3d1aa95d284bd7ccedbc7bc76e *man/dot-load_inst_rds.Rd
 c5c38b89e921172235670a9256626470 *man/wordpiece_vocab.Rd

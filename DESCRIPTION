@@ -1,6 +1,6 @@
 Package: wordpiece.data
 Title: Data for Wordpiece-Style Tokenization
-Version: 1.0.1
+Version: 1.0.2
 Authors@R: c(
     person(given = "Jonathan",
            family = "Bratt",
@@ -15,7 +15,7 @@ Authors@R: c(
     person(given = "Bedford Freeman & Worth Pub Grp LLC DBA Macmillan Learning", 
            role = c("cph")),
     person(given = "Google, Inc", 
-           role = c("cph"), comment = "original BERT base uncased vocabulary")
+           role = c("cph"), comment = "original BERT vocabularies")
     )
 Description: Provides data to be used by the wordpiece algorithm in order to 
     tokenize text into somewhat meaningful chunks. Included vocabularies were 
@@ -32,11 +32,11 @@ Depends: R (>= 3.5.0)
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-09-27 16:50:57 UTC; jonth
+Packaged: 2021-10-08 21:39:00 UTC; jonth
 Author: Jonathan Bratt [aut] (<https://orcid.org/0000-0003-2859-0076>),
   Jon Harmon [aut, cre] (<https://orcid.org/0000-0003-4781-4346>),
   Bedford Freeman & Worth Pub Grp LLC DBA Macmillan Learning [cph],
-  Google, Inc [cph] (original BERT base uncased vocabulary)
+  Google, Inc [cph] (original BERT vocabularies)
 Maintainer: Jon Harmon <jonthegeek@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-09-28 11:20:02 UTC
+Date/Publication: 2021-10-08 21:50:02 UTC

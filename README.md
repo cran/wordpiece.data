@@ -17,15 +17,14 @@ You can install the released version of wordpiece.data from
 [CRAN](https://CRAN.R-project.org) with:
 
 ``` r
-# Not yet.
-#install.packages("wordpiece.data")
+install.packages("wordpiece.data")
 ```
 
 And the development version from [GitHub](https://github.com/) with:
 
 ``` r
-# install.packages("devtools")
-devtools::install_github("macmillancontentscience/wordpiece.data")
+# install.packages("remotes")
+remotes::install_github("macmillancontentscience/wordpiece.data")
 ```
 
 ## Dataset Creation
