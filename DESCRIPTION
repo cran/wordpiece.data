@@ -1,6 +1,6 @@
 Package: wordpiece.data
 Title: Data for Wordpiece-Style Tokenization
-Version: 1.0.2
+Version: 2.0.0
 Authors@R: c(
     person(given = "Jonathan",
            family = "Bratt",
@@ -32,11 +32,11 @@ Depends: R (>= 3.5.0)
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 NeedsCompilation: no
-Packaged: 2021-10-08 21:39:00 UTC; jonth
+Packaged: 2022-03-03 15:50:03 UTC; jonth
 Author: Jonathan Bratt [aut] (<https://orcid.org/0000-0003-2859-0076>),
   Jon Harmon [aut, cre] (<https://orcid.org/0000-0003-4781-4346>),
   Bedford Freeman & Worth Pub Grp LLC DBA Macmillan Learning [cph],
   Google, Inc [cph] (original BERT vocabularies)
 Maintainer: Jon Harmon <jonthegeek@gmail.com>
 Repository: CRAN
-Date/Publication: 2021-10-08 21:50:02 UTC
+Date/Publication: 2022-03-03 16:20:02 UTC
